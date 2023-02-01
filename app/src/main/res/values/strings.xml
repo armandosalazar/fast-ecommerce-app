@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Fast eCommerce</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="registrarse">Registrarse</string>
 </resources>
