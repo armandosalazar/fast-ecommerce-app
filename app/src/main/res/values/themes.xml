@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.FastECommerce" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimary">#144272</item>
+        <item name="colorPrimaryVariant">#0A2647</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
@@ -17,5 +17,14 @@
     <style name="Theme.FastECommerce.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="fontFamily">@font/euclid_regular</item>
+        <item name="buttonStyle">@style/Theme.FastECommerce.Button</item>
     </style>
+
+    <style name="Theme.FastECommerce.Button">
+        <item name="fontFamily">@font/euclid_bold</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:layout_height">100dp</item>
+    </style>
+
 </resources>

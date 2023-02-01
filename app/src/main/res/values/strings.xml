@@ -2,4 +2,13 @@
     <string name="app_name">Fast eCommerce</string>
     <string name="iniciar_sesion">Iniciar sesión</string>
     <string name="registrarse">Registrarse</string>
+    <string name="correo">Correo</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="todo">TODO</string>
+    <string name="fast_ecommerce">Fast eCommerce</string>
+    <string name="inicio">Inicio</string>
+    <string name="inventario">Inventario</string>
+    <string name="ventas">Ventas</string>
+    <string name="configuracion">Configuración</string>
+    <string name="armando_salazar">Armando Salazar</string>
 </resources>
