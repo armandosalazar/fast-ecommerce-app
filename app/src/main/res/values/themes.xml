@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.FastECommerce" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#144272</item>
-        <item name="colorPrimaryVariant">#0A2647</item>
+        <item name="colorPrimary">#C6CBFF</item>
+        <item name="colorPrimaryVariant">#C6CBFF</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
