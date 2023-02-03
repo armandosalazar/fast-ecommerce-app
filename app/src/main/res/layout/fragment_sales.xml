@@ -3,12 +3,24 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="20dp"
     tools:context=".SalesFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Sales Title" />
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sales Title" />
+
+        <Button
+            android:id="@+id/buttonNewSale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nueva venta" />
+    </LinearLayout>
 
 </FrameLayout>
